@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"group": "block_of_quartz",
+	"pattern": [
+		"##",
+		"##"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:nether_quartz"
+		}
+	},
+	"result": {
+		"item": "minecraft:block_of_quartz",
+		"count": 1
+	}
+}
